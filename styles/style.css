@@ -101,6 +101,7 @@
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
+  margin: 0 auto;
 }
 
 .two-colums__main-text {
@@ -114,10 +115,10 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-bottom: 30px;
+  margin: 0 auto 30px;
 }
 
-:last-of-type {
+.two-colums__paragraph:last-of-type {
   margin-bottom: 0;
 }
 
