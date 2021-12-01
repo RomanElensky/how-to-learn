@@ -247,7 +247,7 @@
   color: white;
 }
 
-.table_theme_dark {
+.table__theme_dark {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -256,14 +256,14 @@
   color: white;
 }
 
-.table_cell_theme_dark {
+.table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
 }
 
-.table_heading_theme_dark {
+.table__heading_theme_dark {
   margin: 0 auto 20px;
   line-height: 1.15em;
   font-size: 24px;
@@ -271,7 +271,7 @@
   color: white;
 }
 
-.table_text_theme_dark {
+.table__text_theme_dark {
   line-height: 1.2em;
   font-size: 18px;
   font-weight: normal;
@@ -298,7 +298,7 @@
   flex-direction: column;
 }
 
-.footer_column_content_copyright {
+.footer__column_content_copyright {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
