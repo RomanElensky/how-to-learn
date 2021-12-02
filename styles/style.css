@@ -247,7 +247,7 @@
   color: white;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
